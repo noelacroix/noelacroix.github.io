@@ -2,7 +2,6 @@ html {
   font-size : 10px;
   font-family:
   "Open Sans", sans-serif;
-  background-image: url("https://cdn.pixabay.com/photo/2020/02/21/06/53/everest-base-camp-trek-4866676_960_720.jpg");
 }
 h1 {
   color : rgb(18, 18, 87);
@@ -27,6 +26,11 @@ body {
   width: 600px;
   margin: 0 auto;
   padding: 0 10px 10px 5px;
+  background-image: url("https://cdn.pixabay.com/photo/2020/02/21/06/53/everest-base-camp-trek-4866676_960_720.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 img {
   display: block;
