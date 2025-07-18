@@ -54,6 +54,6 @@ img {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  filter: blur(8px) brightness(0.6); /* flou + assombrissement */
+  filter: blur(4px) brightness(0.3); /* flou + assombrissement */
   z-index: -1;
 }
